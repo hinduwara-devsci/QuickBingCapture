@@ -1,0 +1,59 @@
+QUICK BING CAPTURE
+LICENSE AGREEMENT AND PRIVACY NOTICE
+
+Developer : Heshan Induwara
+GitHub    : https://github.com/hinduwara-devsci
+
+Please read this agreement. By clicking "I accept the agreement" you agree to it.
+
+
+1. FREE AND OPEN SOURCE
+
+Quick Bing Capture is free software. It costs nothing, contains no ads, and is
+open source. You are free to use it, copy it, study it, modify it, and share
+it, under the MIT License in section 4.
+
+
+2. PRIVACY - WE COLLECT AND STORE NOTHING
+
+ - The developer does not collect, store, or receive any of your data.
+ - No account, no telemetry, no analytics, no advertising, no tracking.
+ - The app never connects to any server owned by the developer.
+ - Screenshots are not saved to your disk. A capture is placed on your
+   Windows clipboard, and a temporary web page used to hand the image to your
+   browser is created in your Temp folder and deleted automatically within
+   about a minute.
+ - The only setting the app keeps is the optional "Start with Windows" entry
+   in your own user registry. The uninstaller removes it.
+
+
+3. HOW BING IS USED (PLEASE NOTE)
+
+The purpose of this app is to search your screenshot with Microsoft Bing Visual
+Search. When you capture, your web browser sends the selected image directly to
+Microsoft Bing. That transfer is between you and Microsoft and is covered by
+Microsoft's own privacy statement; the developer never sees it. Only capture
+content you are comfortable sending to Bing.
+
+
+4. MIT LICENSE
+
+Copyright (c) 2026 Heshan Induwara
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
